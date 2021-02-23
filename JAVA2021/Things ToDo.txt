@@ -7,15 +7,11 @@ Problem 1:
 
         {sahana => 2, shiva =>1}
 
-Problem 2: Done 
-   mean, median, and mode 
 
-Problem 3:
+Problem 3: Check example in my email.
  Convert array to Array List / List to HasMap
 
-Problem 4: done 
-  Static function.... 
-     Check TestStatic.
+
 
 
 
