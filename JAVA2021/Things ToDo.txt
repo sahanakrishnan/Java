@@ -1,0 +1,23 @@
+Problem 1:
+    arr= ["Sahana" , "sahana", "Shiva" ]
+
+    Convert to Hasmap
+
+        Hints .... containsKey
+
+        {sahana => 2, shiva =>1}
+
+Problem 2: Done 
+   mean, median, and mode 
+
+Problem 3:
+ Convert array to Array List / List to HasMap
+
+Problem 4: done 
+  Static function.... 
+     Check TestStatic.
+
+
+
+            
+
